@@ -6,7 +6,6 @@ export default function App() {
     <div className="App">
       <h1>Hello Counter</h1>
       <Counter />
-      <button>+ Add</button>
     </div>
   );
 }
